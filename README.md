@@ -1,2 +1,0 @@
-# DDYA
-Semana 1
