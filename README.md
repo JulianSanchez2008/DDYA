@@ -25,7 +25,7 @@ El repositorio está organizado por semanas de trabajo y laboratorios prácticos
  ┃  ┗ 📓 Plantilla_Entrega_diagramas.ipynb # Organización, ordenamiento y búsqueda de productos (Merge Sort + Búsqueda Binaria + Diagramas)
  ┣ 📂 Semana 4/
  ┃  ┗ 📓 Laboratorio Semana 4.ipynb     # Algoritmo (Greedy) para cambio óptimo de monedas (Sistema monetario colombiano)
- ┣ 📂 Semana 6/
+ ┣ 📂 Semana 7/
  ┃  ┗ 📓 Laboratorio 5.ipynb              # Gestión de tienda con Colas (FIFO), Pilas (LIFO) y Listas Enlazadas
  ┗ 📂 Semana 8/
     ┗ 📓 Laboratorio_semana 7.ipynb     # Estructuras de datos no lineales: Árboles Binarios de Búsqueda (BST) y Árboles AVL
