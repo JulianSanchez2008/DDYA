@@ -28,4 +28,6 @@ El repositorio está organizado por semanas de trabajo y laboratorios prácticos
  ┣ 📂 Semana 7/
  ┃  ┗ 📓 Laboratorio 5.ipynb              # Gestión de tienda con Colas (FIFO), Pilas (LIFO) y Listas Enlazadas
  ┗ 📂 Semana 8/
-    ┗ 📓 Laboratorio_semana 7.ipynb     # Estructuras de datos no lineales: Árboles Binarios de Búsqueda (BST) y Árboles AVL
+ ┃  ┗ 📓 Laboratorio_semana 7.ipynb     # Estructuras de datos no lineales: Árboles Binarios de Búsqueda (BST) y Árboles AVL
+ ┗ 📂 Semana 9/
+    ┗ 📓 Laboratorio_semana 8.ipynb     # Recorrido de una red de distribución
