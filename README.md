@@ -32,5 +32,5 @@ El repositorio está organizado por semanas de trabajo y laboratorios prácticos
  ┣ 📂 Semana 9/
  ┃  ┗ 📓 Laboratorio_semana 8.ipynb     # Recorrido de una red de distribución
  ┗ 📂 Semana 12/
-    ┗ 📓      # Recorrido de una red de distribución
+    ┗ 📓 Laboratorio_TDA.ipynb     # Gestión de tareas con Heap y Cola de Prioridad
 
